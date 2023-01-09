@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "data-mountains"
+  site-url: "https://joel-lbth.github.io/data-mountains"
+  description: "turn a geodataframe of points into mountains, scaled by a data attribute associated with each point"
+  repo-branch: main
+  repo-url: "https://github.com/joel-lbth/data-mountains"
