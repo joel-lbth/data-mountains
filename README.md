@@ -45,4 +45,4 @@ gdf = dm.points_to_peaks(gdf=gdf, column='OBS_VALUE', range=[0, 0.01])
 output = dm.plot(gdf=gdf, fill='#eee', stroke='#333')
 ```
 
-![](visualization.svg)
+![](https://raw.githubusercontent.com/joel-lbth/data-mountains/main/nbs/visualization.svg)
