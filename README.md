@@ -42,7 +42,7 @@ gdf = dm.points_to_peaks(gdf=gdf, column='OBS_VALUE', range=[0, 0.01])
 
 ``` python
 # use Altair to create the visual
-output = dm.plot(gdf=gdf, fill='#eee', stroke='#333')
+dm.plot(gdf=gdf, fill='#eee', stroke='#333')
 ```
 
 ![](https://raw.githubusercontent.com/joel-lbth/data-mountains/main/nbs/visualization.svg)
