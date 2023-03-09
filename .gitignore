@@ -1,5 +1,10 @@
 _docs/
 _proc/
+node_modules/
+package-lock.json
+package.json
+vis/
+data/
 
 *.bak
 .gitattributes
